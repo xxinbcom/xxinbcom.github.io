@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>小心2007</title>
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>不止于分享</description>
+	<lastBuildDate>Wed, 28 Apr 2021 12:29:40 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/03/favicon.png</url>
+	<title>小心2007</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Win10的终极清理大法</title>
+		<link>/experience/262.html</link>
+					<comments>/experience/262.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 03:43:59 +0000</pubDate>
+				<category><![CDATA[日常经验]]></category>
+		<guid isPermaLink="false">/?p=262</guid>
+
+					<description><![CDATA[前言 打开电脑，文件管理，C盘又满了。 &#160; 看着那个红色的图标，真烦人。怎么这系统盘越清理越臃肿啊。 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>前言</h2>
+<p>打开电脑，文件管理，C盘又满了。</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/Pasted-15.png" alt="" width="640" height="283" class="alignnone size-full wp-image-287" /></p>
+<p>&nbsp;</p>
+<p>看着那个红色的图标，真烦人。怎么这系统盘越清理越臃肿啊。本教程是作者个人经验，操作不当后果自负。</p>
+<h2>开始清理</h2>
+<p>1、按Win+S搜索此电脑，右键属性</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/Pasted-1.png" alt="" width="785" height="682" class="alignnone size-full wp-image-264" /></p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/Pasted-3.png" alt="" width="398" height="246" class="alignnone size-full wp-image-266" /></p>
+<p>点高级系统设置</p>
+<p>性能处点设置</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/Pasted-4.png" alt="" width="447" height="144" class="alignnone size-full wp-image-267" /></p>
+<p>点高级</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/Pasted-5.png" alt="" width="204" height="69" class="alignnone size-full wp-image-268" /></p>
+<p>虚拟内存点更改</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/Pasted-6.png" alt="" width="384" height="163" class="alignnone size-full wp-image-269" /></p>
+<p>自定义大小，最小为16M；如果你的内存足够，最大1024M就行了，不够的话按照需要加。</p>
+<p>重启之后，C盘应该少了几个G。</p>
+<p>余下部分付费获得哦！</p>
+<p><span><fieldset class="erphpdown erphpdown-see erphpdown-see-pay erphpdown-content-vip" id="erphpdown" style="display:block"><legend>内容查看</legend>此隐藏内容查看价格为<span class="erphpdown-price">30</span>会员币，请先<a href="/sign-in/" target="_blank" class="erphp-login-must erphp-see-must">登录</a><div class="erphpdown-tips">如有疑问，请联系xiaoxin_2007@outlook.com或QQ：3467742757</div></fieldset></span></p>
+<p>本教程到这里就结束了。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/experience/262.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WordPress文章外链添加跳转页</title>
+		<link>/tech/248.html</link>
+					<comments>/tech/248.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Wed, 21 Apr 2021 08:35:53 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[技术教程]]></category>
+		<guid isPermaLink="false">/?p=248</guid>
+
+					<description><![CDATA[介绍 有时候我们在点击Wordpress文章外链的时候，会出现下面的页面： 然后才会跳转到外链。这种特效除了装 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="color: #409eff;"><span style="caret-color: #409eff; font-size: 20px;"><b>介绍</b></span></span></h2>
+<p>有时候我们在点击Wordpress文章外链的时候，会出现下面的页面：</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/79F866BA-CB56-4DB4-B3E0-BAADA6CD84FE.jpeg" alt="" width="2360" height="1418" class="alignnone wp-image-250 size-full" /></p>
+<p>然后才会跳转到外链。这种特效除了装逼以外，还有优化SEO的功能。另外，如果你不小心点到了链接，可以有一个思考的时间。其实这些特效用代码就可以实现。</p>
+<h2>正文</h2>
+<p>1.首先，在网站目录新建一个文件夹go。</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/3D4360C4-7901-4BB5-ABE9-4EA776F5EDD2.jpeg" alt="" width="1990" height="1414" class="alignnone wp-image-251 size-full" /></p>
+<p>2.上传文件index.php(文末链接)。这里我提供了两个文件，一个简约一些：<img loading="lazy" src="/wp-content/uploads/2021/04/EAB2C277-CFFF-4527-BF66-38D54CF5F350.jpeg" alt="" width="2360" height="1422" class="alignnone wp-image-252 size-full" /></p>
+<p>一个花哨一些：</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/79F866BA-CB56-4DB4-B3E0-BAADA6CD84FE.jpeg" alt="" width="2360" height="1418" class="alignnone wp-image-250 size-full" /></p>
+<p>请根据个人喜好自行选择。</p>
+<p>现在，编辑文章的时候只要外链输入<strong>http/https://example.com/go/?url=你的链接</strong>就可以进行外链跳转了。<strong>如果还想强行重写外链，（不用一个个加go/?url=）请往下看。</strong></p>
+<p>3.之后，再进入Wordpress管理界面，选择外观-主题编辑器，<img loading="lazy" src="/wp-content/uploads/2021/04/79A3DB00-F653-40C3-B1F4-B25787997E24-300x139.jpeg" alt="" width="300" height="139" class="alignnone size-medium wp-image-253" /></p>
+<p>function.php,</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/A2A28673-0360-4B15-9842-3E8FE8AC5702-419x1024.jpeg" alt="" width="180" height="440" class="alignnone wp-image-255" /></p>
+<p>在文件末尾添加代码（文末付费下载）</p>
+<p>添加完成点更新文件，大功告成！</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/2A77378E-D206-4395-9324-2061BDCF53F9.jpeg" alt="" width="250" height="120" class="alignnone size-full wp-image-256" /></p>
+<p>最后效果链接：<a href="/go/?url=https://baidu.com"  target="_blank" rel="noopener">点我跳转</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tech/248.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>本站域名那些事</title>
+		<link>/experience/240.html</link>
+					<comments>/experience/240.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Thu, 15 Apr 2021 12:38:02 +0000</pubDate>
+				<category><![CDATA[日常经验]]></category>
+		<guid isPermaLink="false">/?p=240</guid>
+
+					<description><![CDATA[前言 给小白科普一下域名，知道的直接跳过（摘自百度百科） 域名（英语：Domain Name），又称网域，是由 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="color: #409eff;"><span style="caret-color: #409eff; font-size: 20px;"><b>前言</b></span></span></h2>
+<p>给小白科普一下域名，知道的直接跳过（摘自百度百科）</p>
+<blockquote><p><b>域名</b><span>（英语：</span><b>Domain Name</b><span>），又称</span><b>网域</b><span>，是由一串用点分隔的名字组成的</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/Internet"  rel="noopener">Internet</a><span>上某一台</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA/140338"  data-lemmaid="140338" rel="noopener">计算机</a><span>或计算机组的名称，用于在数据传输时对计算机的定位标识（有时也指地理位置）。</span><span>由于</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/IP%E5%9C%B0%E5%9D%80/150859"  data-lemmaid="150859" rel="noopener">IP地址</a><span>具有不方便记忆并且不能显示地址组织的名称和性质等缺点，人们设计出了域名，并通过网域名称系统（</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/DNS"  rel="noopener">DNS</a><span>，Domain Name System）来将域名和</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/IP%E5%9C%B0%E5%9D%80"  rel="noopener">IP地址</a><span>相互</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/%E6%98%A0%E5%B0%84/20402621"  data-lemmaid="20402621" rel="noopener">映射</a><span>，使人更方便地访问</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/%E4%BA%92%E8%81%94%E7%BD%91/199186"  data-lemmaid="199186" rel="noopener">互联网</a><span>，而不用去记住能够被机器直接读取的</span><a target="_blank" href="/go/?url=https://baike.baidu.com/item/IP%E5%9C%B0%E5%9D%80"  rel="noopener">IP地址</a><span>数串。</span></p></blockquote>
+<p>总而言之，域名可以代替IP，世界上注册量最多的域名是.com，本站就是xxinb.com，是xiaoxinblog的意思。还有国家和地区域名，比如说.cn（我国的)，.us，.eu，.hk，著名免费域名提供商freenom提供的域名.tk.pl.ml.cf.ga都是国家域名。还有一些域名比如说.xyz.top等等。</p>
+<h2>正文</h2>
+<p>本站最开始使用的域名就是免费域名xx2007.cf，后来不知为何被墙，觉得还是付费的好。注册了一个xiaoxinx.cn，cn是中国国家顶级域名。在鹅厂花十几块钱活动买的。本来欢欢喜喜终于有个好域名了，结果......</p>
+<p>我在QQ里面打开网站，是这样的</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/1E2F5D85-288D-4672-BA1C-7DFF0C46B8C3-208x300.png" alt="" width="208" height="300" class="alignnone size-medium wp-image-241" /></p>
+<p>我那时还不知道，以为非官方网站都是这样。然后我发现别人网站怎么能正常打开？！</p>
+<p>什么？ 我可是新站！！！难道域名有黑记录？郁闷。。。</p>
+<p>就在这时候，我发现另一件事。</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/43CDF7DA-A21C-4B5D-AF46-2172FB607F69-213x300.jpeg" alt="" width="213" height="300" class="alignnone size-medium wp-image-242" /></p>
+<p>WOC，我的网站变成色情低俗网站了，好你个微信。申请恢复访问：</p>
+<p>也没有用。</p>
+<p>还是说我违规。</p>
+<p>度娘告诉我有个申诉通道</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/BAC9026F-C0BD-4C26-AE63-BF31935EA7C6-300x202.jpeg" alt="" width="300" height="202" class="alignnone size-medium wp-image-243" /></p>
+<p>好像挺专业的，还要部署文件验证。</p>
+<p><img loading="lazy" src="/wp-content/uploads/2021/04/690A3789-9E0A-4BD5-A1B4-DD3144757139-300x202.jpeg" alt="" width="300" height="202" class="alignnone size-medium wp-image-244" /></p>
+<p>原来鹅厂的服务器也有问题。。明明我访问都没问题。</p>
+<p>终于，在和度娘多番交涉之后（手动滑稽）我发现了一个秘密！</p>
+<p><strong>     未备案的cn域名通常都会被鹅厂拦截！</strong>尤其是微信</p>
+<p>我测试了好几个，甚至没有被注册过的，都爆红。</p>
+<p>好吧，那注册一个com。现在倒是因祸得福，这个域名还是挺短的，还是个com。</p>
+<p>所以如果你没有备案，尽量不要注册cn域名。</p>
+<p>OK，今天就到这了，谢谢你的阅读！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/experience/240.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>本站运营的技术论坛开放了！</title>
+		<link>/others/232.html</link>
+					<comments>/others/232.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2021 06:06:18 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<guid isPermaLink="false">https://xiaoxinx.cn/?p=232</guid>
+
+					<description><![CDATA[本站运营的技术论坛开放了！ 一个自由的论坛，你可以自由发布文章、讨论，甚至售卖资源！！ 赶紧戳我直达！！！]]></description>
+										<content:encoded><![CDATA[<h2><strong><em>本站运营的技术论坛开放了！</em></strong></h2>
+<p>一个自由的论坛，你可以自由发布文章、讨论，甚至售卖资源！！</p>
+<p><a href="/go/?url=https://bbs."  target="_blank" rel="noopener">赶紧戳我直达！！！</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/others/232.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>RaiDrive:Windows网盘挂载软件</title>
+		<link>/share/201.html</link>
+					<comments>/share/201.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Sun, 21 Mar 2021 15:14:41 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[资源分享]]></category>
+		<category><![CDATA[技术教程]]></category>
+		<guid isPermaLink="false">https://xiaoxinx.cn/?p=201</guid>
+
+					<description><![CDATA[简介 RaiDrive是一款很好用的网盘挂载软件，好在其个人版是免费的，专业版很贵，但是一般人用不上。 功能  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="color: #409eff;"><span style="caret-color: #409eff; font-size: 20px;"><b>简介</b></span></span></h2>
+<p>RaiDrive是一款很好用的网盘挂载软件，好在其个人版是免费的，专业版很贵，但是一般人用不上。</p>
+<h2><span style="color: #409eff;"><span style="caret-color: #409eff; font-size: 20px;"><b>功能</b></span></span></h2>
+<p>它可以轻松将onedrive, sharepoint,google drive,dropbox 等国际知名网盘映射为本地硬盘，像本地硬盘一样存储和读取。同时还支持Webdev等网盘协议，本站网盘就是webdev协议。</p>
+<p><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/2295D58D-921F-4B33-B1A7-84E35A412B98-300x256.jpeg" alt="" width="300" height="256" class="alignnone size-medium wp-image-203" /></p>
+<p>废话不多说，下面放上下载地址<span></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/share/201.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>公告</title>
+		<link>/tech/193.html</link>
+					<comments>/tech/193.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Fri, 19 Mar 2021 02:08:09 +0000</pubDate>
+				<category><![CDATA[技术教程]]></category>
+		<category><![CDATA[有关本站]]></category>
+		<guid isPermaLink="false">https://xiaoxinx.cn/?p=193</guid>
+
+					<description><![CDATA[关于VIP 在首页导航栏我的VIP充值VIP,会员币 关于投稿 如需投稿，请发送word文档至xiaoxin_ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<hr />
+<h2>关于VIP</h2>
+<p>在首页导航栏我的VIP充值VIP,会员币</p>
+<h2>关于投稿</h2>
+<p>如需投稿，请发送word文档至xiaoxin_2007@outlook.com</p>
+<h2>关于建站</h2>
+<p>如果你需要代建站，请联系QQ：3467742757</p>
+<h2>关于域名</h2>
+<p>本站域名已从xx2007.cf改为xxinb.com，</p>
+<p>原域名将可能无法访问！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tech/193.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>关于短链接</title>
+		<link>/tech/189.html</link>
+					<comments>/tech/189.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Thu, 18 Mar 2021 00:10:53 +0000</pubDate>
+				<category><![CDATA[技术教程]]></category>
+		<category><![CDATA[有关本站]]></category>
+		<guid isPermaLink="false">https://xx2007.cf/?p=189</guid>
+
+					<description><![CDATA[本站共有两个短链接系统，由XCSOFT提供开源软件，均支持API，详见短链接页面。 1.https://短.x/ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>本站共有两个短链接系统，由XCSOFT提供开源软件，均支持API，详见短链接页面。</p>
+<p>1.<a href="/go/?url=https://短.xyz"  target="_blank" rel="noopener">https://短.xyz/</a></p>
+<p>2.<a href="/go/?url=https://addr.ml"  target="_blank" rel="noopener">https://addr.ml/</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tech/189.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>本站云盘开放注册</title>
+		<link>/others/182.html</link>
+					<comments>/others/182.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Fri, 12 Mar 2021 07:40:16 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[云盘]]></category>
+		<guid isPermaLink="false">https://xx2007.cf/?p=182</guid>
+
+					<description><![CDATA[本站云盘开放注册了！注册即送100MB空间，不限速，支持直链！ 而且支持webdev！(如果你不知道webde [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>本站云盘开放注册了！注册即送100MB空间，<strong><span class="has-inline-color has-vivid-red-color">不限速</span></strong>，<span class="has-inline-color has-vivid-red-color"><strong>支持直链</strong></span>！</p>
+
+
+
+<p>而且支持<strong><span class="has-inline-color has-vivid-red-color">webdev</span></strong>！(如果你不知道webdev是什么，请问<a rel="noreferrer noopener" href="/go/?url=https://www.baidu.com/s?ie=UTF-8&amp;wd=webdev"  target="_blank">度娘</a>）</p>
+
+
+
+<p>在这里感谢<a rel="noreferrer noopener" href="/go/?url=https://cloudreve.org"  target="_blank">cloudreve</a>提供程序。</p>
+
+
+
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="/go/?url=https://cloud."  target="_blank" rel="noreferrer noopener">点击直达网盘，免费领取100M云空间</a></div>
+</div>
+
+
+
+<p>也可以在首页&gt;其他&gt;云盘找到哦！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/others/182.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>几步win10秒变Mac</title>
+		<link>/share/152.html</link>
+					<comments>/share/152.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Mon, 08 Mar 2021 06:24:17 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[资源分享]]></category>
+		<category><![CDATA[技术教程]]></category>
+		<guid isPermaLink="false">https://xx2007.cf/?p=152</guid>
+
+					<description><![CDATA[MacOS 系统从来都是操作系统精致的象征，所以很多人没有Mac也要装一个黑苹果。（就像我一样）这样的好处就是 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;">MacOS 系统从来都是操作系统精致的象征，所以很多人没有Mac也要装一个黑苹果。（就像我一样）这样的好处就是，想用win10就用win10，保留实用性，而想要换一下就随手用回Mac。</p>
+<p style="text-align: center;">想想，在一台电脑上同时拥有两种世界上最优秀的操作系统…</p>
+<p style="text-align: center;">不过这种东西，不是每个人都有条件弄的。比如，你是否拥有一台amd处理器的电脑?？你的存储空间足够两个系统吗？等等。</p>
+<p style="text-align: center;">那么，如何集Windows的实用与Mac的美观为一体呢？</p>
+<p style="text-align: center;">今天就来教大家。</p>
+<p style="text-align: center;">首先，下载mydocker（文末地址）</p>
+<p style="text-align: center;">下载完解压到一个文件夹，最好在C盘，运行mydock</p>
+<p style="text-align: center;"><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/屏幕截图-2021-03-08-130543-300x153.png" alt="" width="300" height="153" class="alignnone size-medium wp-image-154" /></p>
+<p style="text-align: center;">这时我们的桌面会出现程序坞，右键程序坞的分隔符，偏好设置</p>
+<p style="text-align: center;"><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/屏幕截图-2021-03-08-131511.png" alt="" width="161" height="298" class="alignnone size-full wp-image-155" /></p>
+<p style="text-align: center;">开启myfinder</p>
+<p style="text-align: center;"><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/屏幕截图-2021-03-08-131609-300x225.png" alt="" width="300" height="225" class="alignnone size-medium wp-image-156" /></p>
+<p style="text-align: center;">开启窗口最小化</p>
+<p style="text-align: center;"><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/屏幕截图-2021-03-08-133556-300x231.png" alt="" width="300" height="231" class="alignnone size-medium wp-image-158" /></p>
+<p style="text-align: center;">之后我们的桌面就是这样了</p>
+<p style="text-align: center;"><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/屏幕截图-2021-03-08-135307-300x171.png" alt="" width="300" height="171" class="alignnone size-medium wp-image-159" /></p>
+<p style="text-align: center;">是不是有点感觉了？</p>
+<p style="text-align: center;">不过好像还差点什么</p>
+<p style="text-align: center;">对了，都模仿Mac了，壁纸得变一下</p>
+<p style="text-align: center;">下载动态壁纸软件并安装（文末有）之后设置，选择喜欢的壁纸应用。OK</p>
+<p style="text-align: center;"><img loading="lazy" src="https://xiaoxinx.cn/wp-content/uploads/2021/03/屏幕截图-2021-03-08-135917-300x170.png" alt="" width="300" height="170" class="alignnone size-medium wp-image-161" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/share/152.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>新冠病毒疫情最新状况</title>
+		<link>/others/105.html</link>
+					<comments>/others/105.html#respond</comments>
+		
+		<dc:creator><![CDATA[xiaoxin2007]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 03:57:39 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[疫情]]></category>
+		<guid isPermaLink="false">http://xx2007.cf/?p=105</guid>
+
+					<description><![CDATA[这是新冠病毒疫情最新状况地图，由插件冠状病毒数据提供支持。祝全球早日打败病毒！]]></description>
+										<content:encoded><![CDATA[<p>这是新冠病毒疫情最新状况地图，由插件<a href="/go/?url=https://www.dukeyin.com/corona-virus-data/"  target="_blank" rel="noopener">冠状病毒数据</a>提供支持。祝全球早日打败病毒！</p>
+<p><div class="ncov2019"><i class="cov-loading4"></i><div id="cov__map" class="cov_map"></div></div></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/others/105.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
